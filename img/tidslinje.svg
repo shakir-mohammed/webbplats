@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 140" width="600" height="140" role="img" aria-labelledby="titel3 besk3">
+  <title id="titel3">Tidslinje över schackets historia</title>
+  <desc id="besk3">En enkel tidslinje som visar fyra viktiga perioder: ca 600-talet i Indien, 1000-talet i Europa, 1800-talet med moderna turneringar och 1900-talet med datorschack.</desc>
+  <rect x="0" y="0" width="600" height="140" fill="#ece4cc"/>
+  <line x1="40" y1="70" x2="560" y2="70" stroke="#6b3e26" stroke-width="4"/>
+
+  <g>
+    <circle cx="80" cy="70" r="9" fill="#6b3e26"/>
+    <text x="80" y="50" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#2b1a10">ca 600-talet</text>
+    <text x="80" y="95" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="#2b1a10">Chaturanga, Indien</text>
+  </g>
+
+  <g>
+    <circle cx="240" cy="70" r="9" fill="#6b3e26"/>
+    <text x="240" y="50" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#2b1a10">1000-talet</text>
+    <text x="240" y="95" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="#2b1a10">Sprids i Europa</text>
+  </g>
+
+  <g>
+    <circle cx="400" cy="70" r="9" fill="#6b3e26"/>
+    <text x="400" y="50" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#2b1a10">1850-talet</text>
+    <text x="400" y="95" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="#2b1a10">Första turneringarna</text>
+  </g>
+
+  <g>
+    <circle cx="540" cy="70" r="9" fill="#6b3e26"/>
+    <text x="540" y="50" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#2b1a10">1997</text>
+    <text x="540" y="95" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="#2b1a10">Deep Blue vinner</text>
+  </g>
+</svg>
